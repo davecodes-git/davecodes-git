@@ -30,7 +30,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 - **Frontend:** TailwindCSS, Bootstrap, HTMX  
 - **Database:** PostgreSQL, SQLite (dev)  
 - **Deployment:** Render, Railway, PythonAnywhere  
-- **Other Tools:** Git, Docker (basic), Stripe API  
+- **Other Tools:** Git, Docker (basic), Stripe API, JavaScript, JQuery, PHP, WordPress
 
 ---
 
