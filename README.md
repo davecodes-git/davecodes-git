@@ -39,22 +39,22 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 
 #### :computer: Programming languages and tools: 
 <p>
-    <img width="50%" align="right" />
+<img width="50%" align="right" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+<br />
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/htmx.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://tester.newblogz.com/wp-content/uploads/2025/08/rest-api.png"></code>
-<br>
+<code><img width="10%" src="https://github.com/dqm891/logos/blob/main/rest-api.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
