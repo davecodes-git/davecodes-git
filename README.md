@@ -9,8 +9,6 @@
 I enjoy creating **database-driven apps** with clean UI and interactive features — all without the need for heavy frontend frameworks.  
 My focus is on building apps that are simple, scalable, and production-ready.  
 
-<img align="right" alt="img" src="https://github.com/davecodes-git/mylottiefiles/blob/main/web-coding.gif" width="20%" height="auto" />
-
 ---
 
 ## 🚀 My Portfolio Projects
