@@ -35,7 +35,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 ---
 
 ## 📫 Get in Touch
-- ✉️ Email: dave@example.com  
+- ✉️ Email: davecodes.git@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/davemejia](https://linkedin.com/in/davemejia)  
 - 🐙 GitHub: [github.com/davecodes-git](https://github.com/davecodes-git)  
 
