@@ -53,7 +53,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://tester.newblogz.com/wp-content/uploads/2025/08/rest-api.svg"></code>
+<code><img width="10%" src="https://tester.newblogz.com/wp-content/uploads/2025/08/rest-api.png"></code>
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
