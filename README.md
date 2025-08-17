@@ -1,4 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js"></script>
 # 👋 Hi, I'm Dave Mejia
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/davecodes-git)
@@ -10,7 +9,7 @@
 I enjoy creating **database-driven apps** with clean UI and interactive features — all without the need for heavy frontend frameworks.  
 My focus is on building apps that are simple, scalable, and production-ready.  
 
-<div align="right" id="lottie-animation" style="width:300px;height:300px;"></div>
+<img align="right" alt="img" src="https://github.com/davecodes-git/mylottiefiles/blob/main/web-coding.gif" width="20%" height="auto" />
 
 ---
 
@@ -73,13 +72,3 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 ---
 
 ⭐️ Feel free to explore my repos — feedback and collaboration are always welcome!
-
-<script>
-  lottie.loadAnimation({
-    container: document.getElementById('lottie-animation'),
-    renderer: 'svg',
-    loop: true,
-    autoplay: true,
-    path: 'https://github.com/davecodes-git/mylottiefiles/blob/main/web-coding.json'
-  });
-</script>
