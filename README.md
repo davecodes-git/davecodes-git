@@ -28,13 +28,37 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-- **Frameworks:** Django, Django REST Framework  
-- **Frontend:** TailwindCSS, Bootstrap, HTMX  
-- **Database:** PostgreSQL, SQLite (dev)  
-- **Deployment:** Render, Railway, PythonAnywhere  
-- **Other Tools:** Git, Docker (basic), Stripe API, JavaScript, JQuery, PHP, WordPress
+- **Backend:** Python (Django), PHP (WordPress, custom plugins)
+- **Frontend:** HTML, CSS, JavaScript, jQuery, HTMX, TailwindCSS, Bootstrap
+- **Database:** PostgreSQL, MySQL, SQLite
+- **Other Tools:** Git, GitHub, REST APIs, Deployment (Render, Railway, Vercel)
+
+---
+
+#### :computer: Programming languages and tools: 
+<p>
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/htmx.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://drive.google.com/file/d/1sBBMTF5sIazxvVYo22Q7JH1heSUAjtn1/view?usp=sharing"></code>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+</p>
 
 ---
 
