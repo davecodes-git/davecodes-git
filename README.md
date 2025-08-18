@@ -37,7 +37,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 
 ---
 
-#### :computer: Programming languages and tools: 
+#### :computer: My Tools: 
 <p>
 <img width="50%" align="right" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
